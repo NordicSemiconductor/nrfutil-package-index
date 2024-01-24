@@ -2,3 +2,4 @@
 {"name":"nrfutil-ble-sniffer-x86_64-unknown-linux-gnu","vers":"0.9.1","cksum":"9ecd487c24f043f86e181185f7bea2bcdee05737e22a275e2b3068c59aaa850c","yanked":false}
 {"name":"nrfutil-ble-sniffer-x86_64-unknown-linux-gnu","vers":"0.10.0","cksum":"b4d1ba8e6dd785ed9633f083de9cdb8a8fadd42f846c914c64c889cbe3a634bd","yanked":false}
 {"name":"nrfutil-ble-sniffer-x86_64-unknown-linux-gnu","vers":"0.11.0","cksum":"3ca57b88235f54e8865688028488e1e302e71ac4d19f99fefca6b97e084f743e","yanked":false}
+{"name":"nrfutil-ble-sniffer-x86_64-unknown-linux-gnu","vers":"0.12.0","cksum":"668b10a82a3a96ed435322ee57c18d6da01e94c5fe986b6b9f0946ec16a9eca5","yanked":false}

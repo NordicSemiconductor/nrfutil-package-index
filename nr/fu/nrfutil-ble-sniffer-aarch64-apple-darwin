@@ -2,3 +2,4 @@
 {"name":"nrfutil-ble-sniffer-aarch64-apple-darwin","vers":"0.9.1","cksum":"de27397f0e0f8a9c5048874e183d8acdba733e573b45b9e7b044941681d2a553","yanked":false}
 {"name":"nrfutil-ble-sniffer-aarch64-apple-darwin","vers":"0.10.0","cksum":"8f512ed10dc86031131bc1e1992f052570790c36b745c8c686e02affe9cae406","yanked":false}
 {"name":"nrfutil-ble-sniffer-aarch64-apple-darwin","vers":"0.11.0","cksum":"7b57f7f52d3f6817ebbdfcba55fc87f0092dd6c8a6122fee4561593f51be80de","yanked":false}
+{"name":"nrfutil-ble-sniffer-aarch64-apple-darwin","vers":"0.12.0","cksum":"a510b14bc86c3c89deff3851a4789ca4ed87bbeb7a01282c4a8689a19accd6b0","yanked":false}

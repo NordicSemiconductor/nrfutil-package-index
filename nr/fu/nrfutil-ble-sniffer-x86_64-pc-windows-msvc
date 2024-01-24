@@ -2,3 +2,4 @@
 {"name":"nrfutil-ble-sniffer-x86_64-pc-windows-msvc","vers":"0.9.1","cksum":"3d1903f4730528ff8cc02e31969d3616f308ba2993e9b64b2a4a06b7dccf9309","yanked":false}
 {"name":"nrfutil-ble-sniffer-x86_64-pc-windows-msvc","vers":"0.10.0","cksum":"f7a9f6e8c45e2e6022c330cdf2d94b9f396a13615a1b84964204a09a3c532636","yanked":false}
 {"name":"nrfutil-ble-sniffer-x86_64-pc-windows-msvc","vers":"0.11.0","cksum":"10444c95032ad9370c16a9fba17c7e704df944f8493b8ac650116f99478acaee","yanked":false}
+{"name":"nrfutil-ble-sniffer-x86_64-pc-windows-msvc","vers":"0.12.0","cksum":"b65403518f2a3a5219f6ca71f232e26859629e59667d6dc29af090676250a0be","yanked":false}
