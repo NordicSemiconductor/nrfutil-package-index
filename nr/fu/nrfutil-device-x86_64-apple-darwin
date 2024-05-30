@@ -14,3 +14,4 @@
 {"name":"nrfutil-device-x86_64-apple-darwin","vers":"2.1.1","cksum":"1d487d0712a3d1ec6173e51db994ab64f61463d54c6bab74a393f38c6fcadb0c","yanked":false}
 {"name":"nrfutil-device-x86_64-apple-darwin","vers":"2.2.0","cksum":"a4dc6a7dba2ef8240073416a39019a6ae157b37b88ac38b5ed938fcd7660ee9d","yanked":true}
 {"name":"nrfutil-device-x86_64-apple-darwin","vers":"2.3.5","cksum":"d7af877d1b551d88528c0a663cdd3d0c402b05cc4cfe485f2e2ca6af678b2159","yanked":false}
+{"name":"nrfutil-device-x86_64-apple-darwin","vers":"2.3.6","cksum":"24e6619eb08ce6ca025b58201feaa3d7beb08f46840a95f9eb0d6a5454a6d220","yanked":false}

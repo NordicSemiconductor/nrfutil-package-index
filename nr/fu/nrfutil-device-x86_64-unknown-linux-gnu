@@ -14,3 +14,4 @@
 {"name":"nrfutil-device-x86_64-unknown-linux-gnu","vers":"2.1.1","cksum":"afc6580424e2a985c653c0944401abd9ca8d896b751b005b1d78ec46d1b926c8","yanked":false}
 {"name":"nrfutil-device-x86_64-unknown-linux-gnu","vers":"2.2.0","cksum":"f928052e7b2f5b4aacf85df2a2bec18cd8667c79e1df4ec769e02d11dcadeefb","yanked":true}
 {"name":"nrfutil-device-x86_64-unknown-linux-gnu","vers":"2.3.5","cksum":"54f70e18dfe0ad44bae4362e7e95ff673fad6bc624c0c25bc5b45b3e36b6d620","yanked":false}
+{"name":"nrfutil-device-x86_64-unknown-linux-gnu","vers":"2.3.6","cksum":"af1fd815edbf472ab907ac32918cfd274635828eacc54a9858a91cb220533729","yanked":false}
