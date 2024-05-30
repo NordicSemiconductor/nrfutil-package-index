@@ -6,3 +6,4 @@
 {"name":"nrfutil-x86_64-pc-windows-msvc","vers":"7.7.0","cksum":"2bb76e6417fafbf27a807b866191aa3953cf4d3d01529a38505d19e708282d51","yanked":false}
 {"name":"nrfutil-x86_64-pc-windows-msvc","vers":"7.7.1","cksum":"fb693ae66e7614954d18e7c79cb8e603961618d38e4cdd8dc66648728d8770f8","yanked":false}
 {"name":"nrfutil-x86_64-pc-windows-msvc","vers":"7.11.0","cksum":"8c1e5c0831460ced47079b54449fc46b3a562d0be44c7f5c6aaa7e5b4108ca83","yanked":false}
+{"name":"nrfutil-x86_64-pc-windows-msvc","vers":"7.11.1","cksum":"b40fe623cdfdcf68a237d92fd39dc29fbbb54b0064b28492a8d379f8d6df6912","yanked":false}

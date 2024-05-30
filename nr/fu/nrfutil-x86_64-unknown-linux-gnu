@@ -6,3 +6,4 @@
 {"name":"nrfutil-x86_64-unknown-linux-gnu","vers":"7.7.0","cksum":"515e0910e2ec447bf643ee9a4c43cf31314682e2a751820499f47a76350cd5c5","yanked":false}
 {"name":"nrfutil-x86_64-unknown-linux-gnu","vers":"7.7.1","cksum":"ca2ffebf22e040076cf00fc5a3846278ae7b64c97153f147657587343c1f4e43","yanked":false}
 {"name":"nrfutil-x86_64-unknown-linux-gnu","vers":"7.11.0","cksum":"fa16c62934e2bbc7ab6a925fc2b068247133cba5452350ee77fb341f1811bd88","yanked":false}
+{"name":"nrfutil-x86_64-unknown-linux-gnu","vers":"7.11.1","cksum":"7da17f880d3bc16880bb17aa119722218967a167b82ca0ad0f10f4070232798c","yanked":false}

@@ -6,3 +6,4 @@
 {"name":"nrfutil-aarch64-apple-darwin","vers":"7.7.0","cksum":"f3d9a08f2980fd4ce195f6b67e896c1d263c598b23313561d1fddfe505e56384","yanked":false}
 {"name":"nrfutil-aarch64-apple-darwin","vers":"7.7.1","cksum":"1a9748ab7bf4e3f2c32da2161521fd833f9a4c509b65ec31df19c63352930641","yanked":false}
 {"name":"nrfutil-aarch64-apple-darwin","vers":"7.11.0","cksum":"8bd4b6b16b6b875a9d68afb3d0d02d5ce29ff0dbbdace1af1f144a67ac1616e4","yanked":false}
+{"name":"nrfutil-aarch64-apple-darwin","vers":"7.11.1","cksum":"8e08a07894471ff73beb5c1818c1e1b511c4e7d9acee86d93f1887e6929ea1e4","yanked":false}
