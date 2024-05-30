@@ -6,3 +6,4 @@
 {"name":"nrfutil-toolchain-manager-x86_64-pc-windows-msvc","vers":"0.14.1","cksum":"3a4a41096d921ed8c6298cf67a9321c4019e319e931babf1a70f8dfe92886fb4","yanked":false}
 {"name":"nrfutil-toolchain-manager-x86_64-pc-windows-msvc","vers":"0.14.2","cksum":"c4a4c1345b947482aa62417b889291ec212dc544e5679e12e8bc38a6efe9462d","yanked":false}
 {"name":"nrfutil-toolchain-manager-x86_64-pc-windows-msvc","vers":"0.14.3","cksum":"12f5ebb8e9194a0111762ad4d6e289107ca9060b6f8f1c15a7f0d0beea596613","yanked":false}
+{"name":"nrfutil-toolchain-manager-x86_64-pc-windows-msvc","vers":"0.14.4","cksum":"2d2081331508b980d41ae5bcb33ddd66149688ec33175c51f5580f16853f3ec2","yanked":false}
